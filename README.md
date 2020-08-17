@@ -8,9 +8,14 @@ In order to test/run the project you will need:
 * Chrome/Firefox/Brave as browsers
 
 ## Instructions 
-In Order to run this project I recommend to:
+In Order to run this project I recommend to recursively clone the repo using the following command
+```bash
+git clone --recursive  https://github.com/LautaroJayat/webee-test.git
+```
+* For more information about the front-end repo you can see https://github.com/LautaroJayat/webee_test_front_end
+* For more information about the back-end repo you can see https://github.com/LautaroJayat/webee_test_backend
+
 ### Backend
-* Clone the repo
 * Open a terminal in the backend folder and run `yarn` or `npm install` in order to install all the dependencies.
 * Check the `dev.test` file and see if that DB URL is safe for you tu use in your local enviroment (we dont want to ruin an existing DB)
 * Run **`yarn start:dev`**
