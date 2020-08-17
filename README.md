@@ -26,20 +26,36 @@ In Order to run this project I recommend to:
 ## Snapshots
 ### Login Screen
 ![login screen](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/login.jpg)
+---
+---
 ### Sign In Screen
 ![sign in screen](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/sign-in.jpg)
+---
+---
 ### Sensor List Panel
 ![Sensor list panel](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/sensors-list.jpg)
+---
+---
 ### Registering a Sensor
 ![Sensor form](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/register-sensor.jpg)
+---
+---
 ### SnackBars for the errors
 ![Register error](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/register-errors.jpg)
+---
+---
 ### Updating a Sensor
 ![Update sensor](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/update-sensor.jpg)
+---
+---
 ### Deleting a Sensor
 ![delete sensor prompt](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/delete-sensor.jpg)
+---
+---
 ### Events List
 ![event lists](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/event-list.jpg)
+---
+---
 ### Update an Event
 ![Update Event](https://github.com/LautaroJayat/webee_test_front_end/blob/master/readme-img/update-event.jpg)
 
